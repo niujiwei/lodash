@@ -1,0 +1,21 @@
+{
+  "name": "@zhanda/lodash",
+  "version": "4.17.20",
+  "description": "内部自己定义封装工具类",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm publish"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "http://192.168.2.102:8083/repository/zd-npm-private/"
+  }
+}
