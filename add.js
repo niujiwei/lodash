@@ -1,7 +1,7 @@
 import createMathOperation from './.internal/createMathOperation.js'
 
 /**
- * Adds two numbers.
+ * Adds two numbers 我测试合并
  *
  * @since 3.4.0
  * @category Math
